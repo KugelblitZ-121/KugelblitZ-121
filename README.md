@@ -3,7 +3,7 @@
 
 ## 🎓 I am a Computer Engineering graduate
 - 🔭 I am a frontend developer working with React.js
-- 🌱 I am upgrading my skills in React.js and Next.js
+- 🌱 Currently upgrading my skills in React.js and Next.js
 - ⚡ Hobbies: Bodybuilding and soccer
 
 ## 🧰 Languages and Tools:
